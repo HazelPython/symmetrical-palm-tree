@@ -1,2 +1,3 @@
 name: HazelPython
-	markdown: kramdown
+markdown: kramdown
+baseurl: /symmetrical-palm-tree
