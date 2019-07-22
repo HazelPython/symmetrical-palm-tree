@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hank Quinlan, Horrible Cop
-subtitle:Lorem ipsum dolor sit amet
+subtitle: Lorem ipsum dolor sit amet
 ---
 
 <h1>Hi there, I'm Hank Quinlan!</h1>
