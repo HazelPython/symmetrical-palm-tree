@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: third Post
 subtitle: Lorem ipsum dolor sit amet
 ---
 
