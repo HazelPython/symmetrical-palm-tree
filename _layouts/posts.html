@@ -25,10 +25,11 @@
 				<!-- One -->
 					<section id="one" class="wrapper style1">
 
-						<div class="image fit flush">
-							<img src={{ page.feature-img }} alt="Feature Image" />
+						 {% if page.feature-img %}
+    <img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+  {% endif %} />
 							
-						</div>
+						
 						<header class="special">
 							<h2>{{ page.title }} | {{ site.title }}</h2>
 							<p>{{ page.subtitle }}</p>
