@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /symmerical-palm-tree
 title: First Post
 subtitle: Lorem ipsum dolor sit amet
 ---
