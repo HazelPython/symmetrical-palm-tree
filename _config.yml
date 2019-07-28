@@ -1,6 +1,7 @@
 name: HazelPython
 markdown: kramdown
 baseurl: /symmetrical-palm-tree
+permalink: /symmetrical-palm-tree
 title: Symmetrical Palm Tree
 include:
   - _posts
