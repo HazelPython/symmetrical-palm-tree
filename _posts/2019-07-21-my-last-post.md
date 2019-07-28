@@ -2,7 +2,7 @@
 layout: posts
 title: last Post
 subtitle: Lorem ipsum dolor sit amet
-feature-img: "/symmetrical-palm-tree/blob/master/images/pic08.jpg"
+feature-img: "/images/pic08.jpg"
 ---
 
 <h1>Hi there, I'm Hank Quinlan!</h1>
