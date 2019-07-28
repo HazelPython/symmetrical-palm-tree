@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title: last Post
 subtitle: Lorem ipsum dolor sit amet
 ---
